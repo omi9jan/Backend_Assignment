@@ -1,4 +1,15 @@
 const path = require('path')
+const os = require('os')
+
 console.log(path.extname('index.js'))
 console.log(path.dirname('app/test/kjin/k.js'))
 console.log('app/test/kjin/k'.split(path.sep))
+
+// console.log(os)
+console.log(os.arch())
+console.log(os.homedir())
+console.log(os.release())
+console.log(os.hostname())
+// console.log(os.cpus())
+console.log(os.cpus()[0])
+console.log(os.cpus()[0].model)
