@@ -1,0 +1,6 @@
+I am new to node JS.Adding new content to file using fs.appendFile 
+write this on new line to file using fs.appendFileAdding new content to file using fs.appendFile 
+ write this on new line to file using fs.appendFileAdding new content to file using fs.appendFile 
+ write this on new line to file using fs.appendFileAdding new content to file using fs.appendFile 
+ write this on new line to file using fs.appendFile
+ i am omi
