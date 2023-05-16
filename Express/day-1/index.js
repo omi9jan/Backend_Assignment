@@ -15,11 +15,9 @@ const server = http.createServer((req,res)=>{
 
             console.log(str)
             res.end(str)
-            
-        }
-        )
+        })
         console.log("data:",str)
-       res.end("Post this data")
+        res.end("Post this data")
     }
 })
 
