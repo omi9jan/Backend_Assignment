@@ -1,0 +1,66 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Name": "Omkareshwari Khupse",
+      "City": "Amravati"
+    },
+    {
+      "id": 2,
+      "Name": "Gitesh Khupse",
+      "City": "Amravati"
+    },
+    {
+      "id": 3,
+      "Name": "Khushbu Mhala",
+      "City": "Morshi"
+    },
+    {
+      "id": 4,
+      "Name": "Vinay Digarse",
+      "City": "Betul"
+    },
+    {
+      "id": 5,
+      "Name": "Vishal Chandel",
+      "City": "Delhi"
+    },
+    {
+      "id": 6,
+      "Name": "Akshay Kumar Gaurav",
+      "City": "Madhya Pradesh"
+    },
+    {
+      "id": 7,
+      "Name": "Neha Bansod",
+      "City": "Akola"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "Name": "Pulkit Tyagi",
+      "City": "Delhi"
+    },
+    {
+      "id": 2,
+      "Name": "Ankush Chimnani",
+      "City": "Banglore"
+    },
+    {
+      "id": 3,
+      "Name": "Swanand Kadam",
+      "City": "Kolkata"
+    },
+    {
+      "id": 4,
+      "Name": "Abdul Peer",
+      "City": "Punjab"
+    },
+    {
+      "id": 5,
+      "Name": "Albert Sebestine",
+      "City": "Pune"
+    }
+  ]
+}
