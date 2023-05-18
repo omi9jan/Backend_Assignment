@@ -65,7 +65,7 @@ app.patch("/update",(req,res)=>{
 app.delete("/delete",(req,res)=>{
     let data = JSON.parse(fs.readFileSync("./db.json","utf-8"));
     let new_data = data.students.filter((el)=>{
-        return(el.Name != "Neha Bansod")
+        return(el.Name != "Gitesh Khupse")
     })
 
     data.students = new_data
